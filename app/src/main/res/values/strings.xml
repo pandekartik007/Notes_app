@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes_app</string>
+    <string name='true_tick'>\u2713</string>
+</resources>
